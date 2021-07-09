@@ -1,0 +1,37 @@
+[
+      {
+        "food_title":"Poke with Chicken",
+        "food_desc": "We've given this classic Hawaiian dish a makeover using caramelized chicken thighs instead of the traditional raw fish.",
+        "price": "25.00",
+        "calories": "325 kcal",
+        "image": "assets/images/grilled_chicken.png"
+      },
+      {
+        "food_title":"Soup with Corn,Tomato and Mushroom",
+        "food_desc": "8 medium ears sweet corn,1 large sweet red pepper,2 cups cherry tomatoes,",
+        "price": "13.47",
+        "calories": "100 kcal",
+        "image": "assets/images/soup.png"
+      },
+      {
+        "food_title":"Sweet Bowl",
+        "food_desc": "Pour the yoghurt into the Modern Dining bowl and then carefully arrange the other ingredients on top, adding honey at the end to taste.",
+        "price": "17.50",
+        "calories": "350 kcal",
+        "image": "assets/images/sweet_bowl.png"
+      },
+      {
+        "food_title":"Napoli Bread",
+        "food_desc": "The casatiello is a traditional Neapolitan bread that is made as part of Easter celebrations.After the bread has been cooked, white icing and diavulilli (colored sprinkles) are added.",
+        "price": "8.30",
+        "date": "125 kcal",
+        "image": "assets/images/napoli_bread.png"
+      },
+      {
+        "food_title":"Dessert with IceCream",
+        "food_desc": "This showstopping cake layers mango and raspberry sorbet, sponge, ice cream and chocolate. Shop-bought cake makes this summer dessert easy to whip up – no baking required.",
+        "price": "10.50",
+        "date": "225 kcal",
+        "image": "assets/images/dessert.png"
+      }
+]
